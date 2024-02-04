@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishnapalsinh Gohil</h1>
 
-<!--
-**krishnapalsinhgohil/krishnapalsinhgohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">an iOS developer from Gujarat 🇮🇳 </h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapalsinhgohil&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapalsinhgohil" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I strongly believe in Learning by Sharing.
+
+🤝 Need to Chat? Feel free to email me!
+
+💬 Ask me about **iOS, Swift, SwiftUI, Clean code**
+
+👨‍💻 I write articles about iOS and programming in [Medium](https://medium.com/@krishnapalsinhgohil)
+
+📫 How to reach me: **krishnapalsinhgohil@gmail.com**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapalsinhgohil&" alt="krishnapalsinhgohil" /></p>
